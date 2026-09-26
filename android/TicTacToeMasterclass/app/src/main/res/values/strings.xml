@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToeMasterclass</string>
+    <string name="game_title">Tic-Tac-Toe</string>
+    <string name="two_players_mode">Two players</string>
+    <string name="computer_mode">Vs. computer</string>
+    <string name="turn_label">Player %1$s\'s turn</string>
+    <string name="winner_label">Player %1$s wins</string>
+    <string name="your_turn">Your turn (X)</string>
+    <string name="you_won">You win</string>
+    <string name="computer_won">Computer wins</string>
+    <string name="draw_label">It\'s a draw</string>
+    <string name="restart_game">Restart game</string>
+    <string name="cell_accessibility">Cell %1$d, %2$s</string>
+    <string name="empty_cell">empty</string>
+</resources>
