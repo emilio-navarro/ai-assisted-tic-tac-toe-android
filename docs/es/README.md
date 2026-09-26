@@ -1,7 +1,4 @@
-# Documentation
-
-- [English](en/README.md)
-- [Español](es/README.md)# Ejemplo Android: de la idea a una app con agentes de IA
+# Ejemplo Android: de la idea a una app con agentes de IA
 
 Este ejemplo usa un juego de Tic-Tac-Toe para mostrar cómo dirigir el desarrollo de software con agentes de IA. La meta no es producir un juego complejo ni limitarse a pedir código: es dar al agente contexto e instrucciones persistentes, dividir el trabajo en etapas, revisar sus decisiones y comprobar el resultado con pruebas, compilación y ejecución real. Eso es lo que aquí significa **desarrollo dirigido por agentes** (o desarrollo *agéntico*). Puedes seguir los pasos para crear tu propia copia del proyecto Android.
 

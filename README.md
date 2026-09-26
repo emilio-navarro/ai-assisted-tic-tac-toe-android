@@ -4,7 +4,7 @@ This repository is a hands-on example of developing an Android app with an AI co
 
 The walkthrough moves from a minimal "Hello World" project to a two-player game and then a computer opponent powered by Minimax. The goal is not just to generate a working game, but to show how to delegate implementation while keeping technical decisions and verification in the developer's hands.
 
-See the [documentation](docs/README.md) for the tools and step-by-step creation guide.
+Documentation is available in two languages: [English instructions](docs/en/README.md) in `docs/en/` and [Spanish instructions](docs/es/README.md) in `docs/es/`. See the [documentation index](docs/README.md) to choose a language.
 
 ## Let's Connect
 
