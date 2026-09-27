@@ -1,4 +1,4 @@
-# ai-assisted-tic-tac-toe-android
+# Building an Android Tic-Tac-Toe App with AI Agents
 
 This repository is a hands-on example of developing an Android app with an AI coding agent. Using Tic-Tac-Toe, it demonstrates how to give an agent persistent project context, work through implementation in deliberate stages, review its changes, and verify the results with tests, builds, and a real run in the Android emulator.
 
